@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RetrofitAppDemo</string>
+    <string name="activity_main_edittext_email_hint">Email Id</string>
+    <string name="activity_main_edittext_name_hint">Name</string>
+    <string name="activity_main_spinner_selectcity_hint">Select City</string>
+    <string name="activity_main_button_save_text">Save</string>
+    <string name="activity_main_edittext_dateofbirth_hint">D.O.B</string>
+    <string name="item_transaction_text"><![CDATA[Date & Time]]></string>
+    <string name="item_transaction_customername_text">Customer name</string>
+    <string name="item_transaction_receiptno_text">Receipt No</string>
+    <string name="item_transaction_paymentstatus_text">Payment Status</string>
+    <string name="item_transaction_orderid_text">Order Id</string>
+    <string name="activity_transactiondisplaydata_userid_hint">Enter UserId</string>
+    <string name="activity_transactiondisplaydata_token_hint">Enter Token</string>
+    <string name="activity_transactiondisplaydata_timestamp_hint">Enter TimeStamp</string>
+    <string name="activity_transactiondisplaydata_save_button">Save</string>
+    <string name="activity_displaydata_save_button">Save</string>
+    <string name="menu_activity_transaction_display_data">Display Data From Database</string>
+</resources>
